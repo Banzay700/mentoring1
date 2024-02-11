@@ -1,2 +1,2 @@
-export { default as PostCard } from "./PostCard";
-export { default as ActionIcon } from "./ActionIcon";
+export { default as PostCard } from './PostCard'
+export { default as ActionIconButton } from './ActionIconButton'
